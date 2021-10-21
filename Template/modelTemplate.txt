@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Models;
+
+use Illuminate\Database\Eloquent\Model;
+
+class {file_name} extends Model
+{
+    // protected $connection = 'my_connection';
+    // protected $table = 'my_table';
+    protected $primaryKey = 'id';
+    protected $guarded = [];
+}

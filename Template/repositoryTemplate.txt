@@ -1,0 +1,13 @@
+<?php
+
+namespace App\Repositories;
+
+use Illuminate\Database\QueryException;
+
+
+class {file_name}Repository
+{
+    public function __construct()
+    {
+    }
+}
